@@ -1,0 +1,8 @@
+package Section3;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		// This is the Udemy course tutorial 
+		System.out.println("Hello Joe");
+	}
+}
